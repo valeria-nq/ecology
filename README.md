@@ -42,7 +42,7 @@ Bibliografía
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/valeria-nq/ecology/blob/main/FOTO/1620845628_26-oir_mobi-p-tolstaya-kapibara-zhivotnie-krasivo-foto-26-768x747.jpg "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
